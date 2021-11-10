@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13981b66f67204744891820795ef4230, type: 3}
+  m_Name: TreeDataAsset 2
+  m_EditorClassIdentifier: 
+  m_TreeElements:
+  - m_ID: 0
+    m_Name: Root
+    m_Depth: -1
+    gameObject: {fileID: 0}
+    filePath: 
+    enabled: 1
+  - m_ID: 9
+    m_Name: Cube 8
+    m_Depth: 0
+    gameObject: {fileID: 2803962020072359565, guid: e660a4439fe741343ac1bddd1608bd2e,
+      type: 3}
+    filePath: Assets/Cube 8.prefab
+    enabled: 1
+  - m_ID: 5
+    m_Name: Cube 6
+    m_Depth: 0
+    gameObject: {fileID: 2803962020072359565, guid: 02ae9e35e98892449a3e5bbd6f12b037,
+      type: 3}
+    filePath: Assets/Cube 6.prefab
+    enabled: 1
+  - m_ID: 6
+    m_Name: Cube 7
+    m_Depth: 0
+    gameObject: {fileID: 2803962020072359565, guid: 5a4ea231fda416945b642f8d10262701,
+      type: 3}
+    filePath: Assets/Cube 7.prefab
+    enabled: 1
+  - m_ID: 1
+    m_Name: Cube 3
+    m_Depth: 0
+    gameObject: {fileID: 2803962020072359565, guid: 1cd0389b6e93fde46b834519c0c0f2d0,
+      type: 3}
+    filePath: Assets/Cube 3.prefab
+    enabled: 1
+  - m_ID: 2
+    m_Name: Cube 4
+    m_Depth: 0
+    gameObject: {fileID: 2803962020072359565, guid: 690928b5115c94f4e9f7e073a296bafb,
+      type: 3}
+    filePath: Assets/Cube 4.prefab
+    enabled: 1
+  - m_ID: 3
+    m_Name: Cube 5
+    m_Depth: 0
+    gameObject: {fileID: 2803962020072359565, guid: 686924b189c235548ac73d6f2bb791e0,
+      type: 3}
+    filePath: Assets/Cube 5.prefab
+    enabled: 1
